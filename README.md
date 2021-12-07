@@ -8,5 +8,5 @@
 # ⚡ Fun fact: ...
 
 - I am a frontend developer ✨
-- Love working with front end techologies such as
-- Angular, React, HTML, CSS and Javascript
+- Love working with front end techologies such as Angular, React, HTML, CSS and Javascript
+-  i am from 🇳🇬
